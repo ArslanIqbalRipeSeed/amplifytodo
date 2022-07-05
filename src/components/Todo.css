@@ -1,0 +1,15 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-top: 20px;
+   
+}
+
+.todo li{
+    display: flex;
+    padding: .2rem;
+    justify-content: space-evenly;
+    
+  
+}

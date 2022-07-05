@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "reactamplifie",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "G:\\Projects\\RipeSeed Technology\\amplifytodo\\react-amplifie\\amplify\\backend\\api\\reactamplifie\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    },
+    "conflictResolution": {
+      "defaultResolutionStrategy": {
+        "type": "AUTOMERGE"
+      }
+    }
+  }
+}

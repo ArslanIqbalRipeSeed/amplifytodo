@@ -1,0 +1,14 @@
+{
+  "resourceName": "awsstore",
+  "policyUUID": "78be72ce",
+  "bucketName": "storetodo",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
